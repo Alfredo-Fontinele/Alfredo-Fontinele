@@ -4,11 +4,17 @@
 
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
-## ***1º) Tecnologias:***
+## ***Hard Skills***
 
 * HTML5, CSS3, JS (ES6), Web Semântica, Jest, Cucumber, Git, Bash
 * React, Hooks, State Managements, Redux
 * NodeJS, Express, Python, Django, ORM, Amazon AWS MongoDB, PostgreSQL
+
+## ***Soft Skills***
+
+* Proatividade, persistência, feedback
+* Aprender a aprender, respeitabilidade
+* Comunicação clara e assertiva
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
