@@ -2,7 +2,6 @@
 
 # ***Formação Full Stack | Kenzie Academy Brasil***
 
-![Linkedin](https://user-images.githubusercontent.com/101817225/170341903-e0ef57e3-ad3b-4424-9156-12166981fd8e.png)
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
 ## ***1º) Tecnologias:***
@@ -32,3 +31,5 @@
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
+![Linkedin](https://user-images.githubusercontent.com/101817225/170341903-e0ef57e3-ad3b-4424-9156-12166981fd8e.png)
