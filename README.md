@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá. Me chamo Alfredo e sou Aluno da Kenzie Academy Brasil 👋
+
+# ***Formação Full Stack | Kenzie Academy Brasil***
+
+## ***1º) Tecnologias:***
+
+* HTML5, CSS3, JS (ES6), Web Semântica, Jest, Cucumber, Git, Bash
+* React, Hooks, State Managements, Redux
+* NodeJS, Express, Python, Django, ORM, Amazon AWS MongoDB, PostgreSQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
