@@ -4,7 +4,7 @@
 
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
-## ***Hard Skills***
+## ***Hard Skills | Kenzie***
 
 * HTML5, CSS3, JS (ES6), Web Semântica, TDD com Jest, BDD com Cucumber, Git, Bash, Cypress
 * Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona
@@ -29,7 +29,7 @@
  
 </div>
   
-## ***Soft Skills***
+## ***Soft Skills | Kenzie***
 
 * Proatividade, persistência, feedback
 * Aprender a aprender, respeitabilidade
