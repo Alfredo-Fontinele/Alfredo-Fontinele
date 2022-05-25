@@ -26,6 +26,7 @@
 * Aprender a aprender, respeitabilidade
 * Comunicação clara e assertiva
  
+##
 <div> 
   <a href="https://www.youtube.com/channel/UCHGyhE14Wc_WqvPD3QjmywA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/alfredo_fontinele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
