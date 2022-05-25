@@ -10,12 +10,6 @@
 * React, Hooks, State Managements, Redux
 * NodeJS, Express, Python, Django, ORM, Amazon AWS MongoDB, PostgreSQL
 
-## ***Soft Skills***
-
-* Proatividade, persistência, feedback
-* Aprender a aprender, respeitabilidade
-* Comunicação clara e assertiva
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -26,7 +20,11 @@
  
 </div>
   
-  ##
+## ***Soft Skills***
+
+* Proatividade, persistência, feedback
+* Aprender a aprender, respeitabilidade
+* Comunicação clara e assertiva
  
 <div> 
   <a href="https://www.youtube.com/channel/UCHGyhE14Wc_WqvPD3QjmywA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
