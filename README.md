@@ -9,7 +9,7 @@
 * HTML5, CSS3, JS (ES6), Web Semântica, TDD com Jest, BDD com Cucumber, Git, Bash
 * Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona
 * React, Hooks, State Managements, Redux, Consumo de APIs, Construção de APIs RESTful
-* NodeJS, Express, Python, Django, ORM, Amazon AWS MongoDB, PostgreSQL
+* NodeJS, Express, TypeScript, Python, Django, ORM, Amazon AWS, MongoDB, PostgreSQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
