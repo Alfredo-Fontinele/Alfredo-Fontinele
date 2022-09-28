@@ -6,7 +6,7 @@
 
 ## *Hard Skills | Kenzie*
 
-* HTML5, CSS3, JS (ES6), Web Semântica, TDD com Jest, BDD com Cucumber, Git, Bash
+* HTML5, CSS3, JS (ES6), Web Semântica, TDD com Jest, Git, Bash
 * Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona
 * React, Hooks, State Managements, Redux, Consumo de APIs, Construção de APIs RESTful
 * NodeJS, Express, TypeScript, Python, Django, ORM, Amazon AWS, MongoDB, PostgreSQL
