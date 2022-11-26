@@ -1,4 +1,4 @@
-### Olá. Me chamo Alfredo e sou Aluno da Kenzie Academy Brasil 👋
+### Alfredo Neto | Desenvolvedor Front-End
 
 # ***Formação Full Stack | Kenzie Academy Brasil***
 
