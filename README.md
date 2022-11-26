@@ -1,4 +1,4 @@
-### Alfredo Neto | Desenvolvedor Front-End
+# Alfredo Neto | Desenvolvedor Front-End
 
 # ***Formação Full Stack | Kenzie Academy Brasil***
 
