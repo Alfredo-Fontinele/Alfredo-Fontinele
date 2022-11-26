@@ -9,8 +9,8 @@
 <!-- * ***HTML5, CSS3, JavaScript (ES6), Web Semântica, Git*** -->
 <!-- * ***Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona*** -->
 * ***ReactJS, NextJS, Styled Components, Chakra UI, Axios***
-* ***NodeJS, Express, TypeScript, PostgreSQL, TypeORM, Docker, Jest, Construção de APIs RESTful***
-* ***Python, Django, Flask, Migrations, Amazon AWS, MongoDB, Git***
+* ***NodeJS, Express, TypeScript, PostgreSQL, TypeORM, TDD com Jest, Construção de APIs RESTful***
+* ***Python, Django, Flask, Git***
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +22,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<!--   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg">
+<!--   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> -->
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">  
