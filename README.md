@@ -8,9 +8,8 @@
 
 <!-- * ***HTML5, CSS3, JavaScript (ES6), Web Semântica, Git*** -->
 <!-- * ***Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona*** -->
-* ***ReactJS, NextJS, Styled Components, Chakra UI, Axios***
-* ***NodeJS, Express, TypeScript, PostgreSQL, TypeORM, TDD com Jest, Construção de APIs RESTful***
-* ***Python, Django, Flask, Git***
+* ***ReactJS, NextJS, Styled Components, Chakra UI, Axios, Controle de Versão com Git***
+* ***NodeJS, Express, TypeScript, PostgreSQL, Construção de APIs RESTful***
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
