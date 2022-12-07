@@ -29,12 +29,6 @@
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">  
 </div>
-  
-## *Soft Skills | Kenzie*
-
-* ***Proatividade, persistência, feedback***
-* ***Aprender a aprender, respeitabilidade***
-* ***Comunicação clara e assertiva***
  
 ##
 <div> 
