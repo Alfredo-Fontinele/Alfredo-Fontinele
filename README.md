@@ -12,18 +12,15 @@
 ### NodeJS, Express, TypeScript, PostgreSQL, TypeORM, Prisma, Construção de APIs RESTful
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<!--   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+  https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg">
-    <img align="center" alt="Django" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
-    <img align="center" alt="Django" height="30" width="40" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png">
+    <img align="center" alt="Tailwindcss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+    <img align="center" alt="Typeorm" height="30" width="40" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg">
     <img align="center" alt="Flask" height="30" width="40" src="https://icons.veryicon.com/png/o/weather/weather-16/flash-circle-fill.png">  
 
