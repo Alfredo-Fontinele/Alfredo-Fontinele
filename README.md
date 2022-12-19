@@ -21,7 +21,7 @@
     <img align="center" alt="Tailwindcss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
     <img align="center" alt="Typeorm" height="30" width="40" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg">
-    <img align="center" alt="ChakraUI" height="30" width="40" src="https://pbs.twimg.com/profile_images/1257282259981234182/KUJHKmPi_400x400.jpg">  
+    <img align="center" alt="ChakraUI" height="30" width="40" src="https://icons.veryicon.com/png/o/weather/weather-16/flash-circle-fill.png">  
 <!--   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
