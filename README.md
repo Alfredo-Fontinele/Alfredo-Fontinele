@@ -8,7 +8,7 @@
 
 <!-- * ***HTML5, CSS3, JavaScript (ES6), Web Semântica, Git*** -->
 <!-- * ***Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona*** -->
-### ReactJS, NextJS, Styled Components, Chakra UI, Axios, Controle de Versão com Git
+### React, React Native, NextJS, Styled Components, Chakra UI, Axios, Controle de Versão com Git
 ### NodeJS, Express, TypeScript, PostgreSQL, TypeORM, Prisma, Construção de APIs RESTful
 
 <div style="display: inline_block"><br>
