@@ -18,6 +18,7 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <!--     <img align="center" alt="Tailwindcss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"> -->
     <img align="center" alt="Typeorm" height="30" width="40" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg">
