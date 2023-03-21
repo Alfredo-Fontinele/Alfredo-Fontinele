@@ -9,15 +9,15 @@
 <!-- * ***HTML5, CSS3, JavaScript (ES6), Web Semântica, Git*** -->
 <!-- * ***Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona*** -->
 <li>React, Next.js, Styled Components, ChakraUI, Git</li>
-<li>NodeJS, Express, TypeScript, PostgreSQL, TypeORM, Prisma, Django, Nestj.js, Docker, Construção de APIs RESTful</li>
+<li>Node.js, Express.js, TypeScript, Nestj.js, Docker, PostgreSQL, TypeORM, Prisma, Construção de APIs RESTful</li>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/django.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <!--     <img align="center" alt="Tailwindcss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"> -->
     <img align="center" alt="Typeorm" height="30" width="40" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png">
