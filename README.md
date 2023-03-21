@@ -9,7 +9,7 @@
 <!-- * ***HTML5, CSS3, JavaScript (ES6), Web Semântica, Git*** -->
 <!-- * ***Programação Orientada a Objetos, Programação Funcional e Programação Assíncrona*** -->
 <li>React, Next.js, Styled Components, ChakraUI, Git</li>
-<li>NodeJS, Express, TypeScript, PostgreSQL, TypeORM, Prisma, Construção de APIs RESTful</li>
+<li>NodeJS, Express, TypeScript, PostgreSQL, TypeORM, Prisma, Django, Nestj.js, Docker, Construção de APIs RESTful</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
