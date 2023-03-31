@@ -21,7 +21,6 @@
     <li>🍃 MongoDB</li>
     <li>🐳 Docker</li>
     <li>🧪 Jest</li>
-    <li>🐲 Django</li>
 </ul>
 
 <h2>🌎 Redes sociais</h2>
