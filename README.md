@@ -13,7 +13,7 @@
     <li>🔲 Next.js</li>
     <li>🟢 Node.js</li>
     <li>🌐 Express</li>
-    <li>🛡️ TypeScript</li>
+    <li>🔵 TypeScript</li>
     <li>🐘 PostgreSQL</li>
     <li>🔶 TypeORM</li>
     <li>🔷 Prisma</li>
