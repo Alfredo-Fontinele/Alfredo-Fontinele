@@ -31,4 +31,4 @@
      <img src="https://img.shields.io/badge/Linkedin-0000FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-sn
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
