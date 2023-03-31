@@ -4,7 +4,7 @@
 
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
-<h1>🚀 Tecnologias que utilizo</h1>
+<h2>🚀 Tecnologias que utilizo</h2>
 
 <ul> 
     <li>⚛️ React</li>
@@ -21,7 +21,7 @@
     <li>🔷 Prisma</li>
 </ul>
 
-## 🌎 Redes sociais
+<h2>🌎 Redes sociais</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredopfneto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfredopfneto)
