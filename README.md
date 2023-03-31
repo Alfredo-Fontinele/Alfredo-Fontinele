@@ -1,6 +1,6 @@
-# 👋 Hello, I`m Alfredo 
+# 👋 Olá. Me chamo Alfredo
 
-<h2>🖥️ Full Stack Developer</h2>
+<h2>🖥️ Desenvolvedor Full Stack</h2>
 
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
