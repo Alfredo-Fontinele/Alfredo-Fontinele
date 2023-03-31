@@ -1,20 +1,22 @@
-# 👋 Olá, me chamo Alfredo - Desenvolvedor Full Stack
+# 👋 Olá, me chamo Alfredo
+
+# *Desenvolvedor Full Stack*
 
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
-🚀 Tecnologias que utilizo
-⚛️ React
-🔧 Node.js
-🐘 PostgreSQL
-🐍 Python
-🐲 Django
-🛡️ TypeScript
-🐳 Docker
-📦 Next.js
-🎨 Styled Components
-🏭 Nest.js
-🔶 TypeORM
-🔷 Prisma
+<li>🚀 Tecnologias que utilizo</li>
+<li>⚛️ React</li>
+<li>🔧 Node.js</li>
+<li>🐘 PostgreSQL</li>
+<li>🐍 Python</li>
+<li>🐲 Django</li>
+<li>🛡️ TypeScript</li>
+<li>🐳 Docker</li>
+<li>📦 Next.js</li>
+<li>🎨 Styled Components</li>
+<li>🏭 Nest.js</li>
+<li>🔶 TypeORM</li>
+<li>🔷 Prisma</li>
 
 ## 🌎 Redes sociais
 
