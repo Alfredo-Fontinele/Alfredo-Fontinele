@@ -8,17 +8,20 @@
 
 <ul> 
     <li>⚛️ React</li>
-    <li>🔧 Node.js</li>
-    <li>🐘 PostgreSQL</li>
-    <li>🐍 Python</li>
-    <li>🐲 Django</li>
-    <li>🛡️ TypeScript</li>
-    <li>🐳 Docker</li>
-    <li>📦 Next.js</li>
     <li>🎨 Styled Components</li>
-    <li>🏭 Nest.js</li>
+    <li>💠 ChakraUI</li>
+    <li>🔲 Next.js</li>
+    <li>🔧 Node.js</li>
+    <li>🌐 Express</li>
+    <li>🛡️ TypeScript</li>
+    <li>🐘 PostgreSQL</li>
     <li>🔶 TypeORM</li>
     <li>🔷 Prisma</li>
+    <li>🐦 Nest.js</li>
+    <li>🍃 MongoDB</li>
+    <li>🐳 Docker</li>
+    <li>🧪 Jest</li>
+    <li>🐲 Django</li>
 </ul>
 
 <h2>🌎 Redes sociais</h2>
