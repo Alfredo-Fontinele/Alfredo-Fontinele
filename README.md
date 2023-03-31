@@ -26,6 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredopfneto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfredopfneto)
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ![Linkedin](https://user-images.githubusercontent.com/101817225/170341903-e0ef57e3-ad3b-4424-9156-12166981fd8e.png)
