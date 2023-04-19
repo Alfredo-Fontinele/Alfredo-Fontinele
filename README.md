@@ -1,6 +1,4 @@
-<h2>👋 Olá. Me chamo Alfredo</h2>
-
-<h2>🖥️ Desenvolvedor Full Stack</h2>
+<h1>🖥️ Desenvolvedor Full Stack | Alfredo Neto</h1>
 
 ![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
 
