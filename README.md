@@ -19,6 +19,8 @@
     <li>🍃 MongoDB</li>
     <li>🐳 Docker</li>
     <li>🧪 Jest</li>
+    <li>🐘 PHP</li>
+    <li>🐹 Golang</li>
 </ul>
 
 <h2>🌎 Redes sociais</h2>
