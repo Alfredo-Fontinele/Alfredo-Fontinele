@@ -20,8 +20,9 @@
     <li>🐳 Docker</li>
     <li>🧪 Jest</li>
     <li>☕ Java</li>
-    <li>🐘 PHP</li>
     <li>🐹 Golang</li>
+    <li>🐘 PHP</li>
+    <li>🔶 Laravel</li>
 </ul>
 
 <h2>🌎 Redes sociais</h2>
