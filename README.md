@@ -9,18 +9,20 @@
     <li>🎨 Styled Components</li>
     <li>💠 ChakraUI</li>
     <li>🔲 Next.js</li>
+    <li>🅰️ Angular</li>
+    <li>🔵 TypeScript</li>
     <li>🟢 Node.js</li>
     <li>🌐 Express</li>
-    <li>🔵 TypeScript</li>
-    <li>🐘 PostgreSQL</li>
     <li>🔶 TypeORM</li>
     <li>🔷 Prisma</li>
-    <li>🐦 Nest.js</li>
+    <li>🐘 PostgreSQL</li>
+    <li>🐘 MySQL</li>
     <li>🍃 MongoDB</li>
+    <li>🐦 Nest.js</li>
     <li>🐳 Docker</li>
     <li>🧪 Jest</li>
     <li>☕ Java</li>
-    <li>🐹 Golang</li>
+    <li>🍃 Spring</li>
     <li>🐘 PHP</li>
     <li>🔶 Laravel</li>
 </ul>
