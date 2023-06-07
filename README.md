@@ -6,10 +6,11 @@
 
 <ul> 
     <li>⚛️ React</li>
-    <li>🎨 Styled Components</li>
-    <li>💠 ChakraUI</li>
     <li>🔲 Next.js</li>
     <li>🅰️ Angular</li>
+    <li>💠 Tailwind</li>
+    <li>🎨 Styled Components</li>
+    <li>💠 ChakraUI</li> 
     <li>🔵 TypeScript</li>
     <li>🟢 Node.js</li>
     <li>🌐 Express</li>
