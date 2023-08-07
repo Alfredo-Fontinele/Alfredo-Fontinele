@@ -8,9 +8,10 @@
     <li>⚛️ React</li>
     <li>🔲 Next.js</li>
     <li>🅰️ Angular</li>
-    <li>💠 Tailwind</li>
-    <li>🎨 Styled Components</li>
+    <li>💠 TailwindCSS</li>
+    <li>💠 MantineUI</li> 
     <li>💠 ChakraUI</li> 
+    <li>🎨 Styled Components</li>
     <li>🔵 TypeScript</li>
     <li>🟢 Node.js</li>
     <li>🌐 Express</li>
