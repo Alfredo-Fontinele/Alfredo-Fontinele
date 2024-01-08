@@ -13,6 +13,10 @@
     <li>💠 ChakraUI</li> 
     <li>🎨 Styled Components</li>
     <li>🔵 TypeScript</li>
+    <li>☕ Java</li>
+    <li>🍃 Spring Boot</li>
+    <li>🐘 PHP</li>
+    <li>🔶 Laravel</li>
     <li>🟢 Node.js</li>
     <li>🌐 Express</li>
     <li>🔶 TypeORM</li>
@@ -23,10 +27,6 @@
     <li>🐦 Nest.js</li>
     <li>🐳 Docker</li>
     <li>🧪 Jest</li>
-    <li>☕ Java</li>
-    <li>🍃 Spring</li>
-    <li>🐘 PHP</li>
-    <li>🔶 Laravel</li>
 </ul>
 
 <h2>🌎 Redes sociais</h2>
