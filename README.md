@@ -7,6 +7,13 @@
 <ul> 
     <li>⚛️ React</li>
     <li>🔲 Next.js</li>
+    <li>🟢 Node.js</li>
+    <li>🌐 Express</li>
+    <li>🐦 Nest.js</li>
+    <li>🐳 Docker</li>
+    <li>🧪 Jest</li>
+    <li>🔶 TypeORM</li>
+    <li>🔷 Prisma</li>
     <li>🅰️ Angular</li>
     <li>💠 TailwindCSS</li>
     <li>💠 MantineUI</li> 
@@ -17,16 +24,9 @@
     <li>🍃 Spring Boot</li>
     <li>🐘 PHP</li>
     <li>🔶 Laravel</li>
-    <li>🟢 Node.js</li>
-    <li>🌐 Express</li>
-    <li>🔶 TypeORM</li>
-    <li>🔷 Prisma</li>
     <li>🐘 PostgreSQL</li>
     <li>🐘 MySQL</li>
     <li>🍃 MongoDB</li>
-    <li>🐦 Nest.js</li>
-    <li>🐳 Docker</li>
-    <li>🧪 Jest</li>
 </ul>
 
 <h2>🌎 Redes sociais</h2>
