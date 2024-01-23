@@ -7,6 +7,7 @@
 <ul> 
     <li>⚛️ React</li>
     <li>🔲 Next.js</li>
+    <li>💚 Nuxt.js</li>
     <li>🟢 Node.js</li>
     <li>🌐 Express</li>
     <li>🐦 Nest.js</li>
