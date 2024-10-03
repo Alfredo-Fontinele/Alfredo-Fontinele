@@ -1,7 +1,5 @@
 <h1>🖥️ Desenvolvedor Full Stack</h1>
 
-![Cover_SomosKenzieAcademy](https://user-images.githubusercontent.com/101817225/170341920-a3c10728-467b-4357-9428-0009b46e1af3.png)
-
 <h2>🚀 Tecnologias que utilizo</h2>
 
 <ul> 
