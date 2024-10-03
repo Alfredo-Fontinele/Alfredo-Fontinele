@@ -34,5 +34,3 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/713392854227091516)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-![Linkedin](https://user-images.githubusercontent.com/101817225/170341903-e0ef57e3-ad3b-4424-9156-12166981fd8e.png)
