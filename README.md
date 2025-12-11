@@ -1,6 +1,4 @@
-<h1>🖥️ Desenvolvedor Full Stack</h1>
-
-<h2>🚀 Tecnologias que utilizo</h2>
+<h1>Alfredo Neto</h1>
 
 <ul> 
     <li>⚛️ React</li>
